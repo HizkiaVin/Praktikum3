@@ -38,7 +38,9 @@ Outputnya adalah :
 # Latihan 2
 ![Konversi nilai variable](https://user-images.githubusercontent.com/116176746/199982751-d0826160-716f-4904-9b18-9e51d1103bfe.png)
 
->a=input("masukkan nilai a:")
+Kita bisa memasukkan perintah sebagai berikut:
+
+a=input("masukkan nilai a:")
 b=input("masukkan nilai b:")
 
 print("variable a=",a)
@@ -50,3 +52,27 @@ a=int(a)
 b=int(b)
 print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+
+maka outputnya :
+
+![Konversi nilai variable(1)](https://user-images.githubusercontent.com/116176746/199982762-2e18a3e8-5b6b-4921-8f36-53746cac96af.png)
+
+
+# Latihan 3
+![String Formatting(3)](https://user-images.githubusercontent.com/116176746/200011534-edeff368-8ee3-4c7a-b9b7-98a6843c6dec.png)
+
+Untuk menghasilkan output seperti gambar diatas, kita bisa memasukkan kode 
+
+print('{1:>15}'.format(0,"*"))
+print('{1:>16}'.format(0,"***"))
+print('{1:>17}'.format(0,"*****"))
+print('{1:>18}'.format(0,"*******"))
+print('{1:>19}'.format(0,"*********"))
+print('{1:>18}'.format(0,"*******"))
+print('{1:>17}'.format(0,"*****"))
+print('{1:>16}'.format(0,"***"))
+print('{1:>15}'.format(0,"*"))
+
+maka akan menghasilkan output seperti berikut
+
+![String Formatting(1)](https://user-images.githubusercontent.com/116176746/200011539-5457b4da-f646-4ce0-893c-7a93e40e25f2.png)
