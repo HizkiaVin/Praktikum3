@@ -13,11 +13,12 @@ Jadi secara bawaan, setiap kali kita memanggil fungsi print() untuk mencetak ses
 
 Setelah itu kita akan mempelajari penggunaan separator
 
->Ketika kita memanggil fungsi print() untuk menampilkan multi argumen, python akan otomatis menambahkan karakter spasi sebagai pemisah antar argumen tersebut.
-Jika kita tidak ingin pemisah spasi, maka kita bisa menambahkan parameter sep (separator) saat memanggil print().
 ![Penggunaan Separator ](https://user-images.githubusercontent.com/116176746/199969672-fa3eb478-da6e-4f98-bee0-d1987b504ff1.png)
 
 Pada perintah print() pertama tanpa parameter sep, sehingga python otomatis menjadikan karakter spasi sebagai pemisah.
-Sedangkan perintah print() yang selanjutnya, saya menggunakan parameter sep dengan nilai (,)('')(:) dan (----), makan output yang akan dihasilkan adalah sebagai berikut
+Sedangkan perintah print() yang selanjutnya, saya menggunakan parameter sep dengan nilai (,)('')(:) dan (----), maka output yang akan dihasilkan adalah sebagai berikut
 ![Penggunaan Separator (1)](https://user-images.githubusercontent.com/116176746/199969684-15e53d08-5c12-4d2b-8f4a-f5400fc52928.png)
 
+
+>Ketika kita memanggil fungsi print() untuk menampilkan multi argumen, python akan otomatis menambahkan karakter spasi sebagai pemisah antar argumen tersebut.
+Jika kita tidak ingin pemisah spasi, maka kita bisa menambahkan parameter sep (separator) saat memanggil print().
