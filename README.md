@@ -25,6 +25,8 @@ Sedangkan perintah print() yang selanjutnya, saya menggunakan parameter sep deng
 Jika kita tidak ingin pemisah spasi, maka kita bisa menambahkan parameter sep (separator) saat memanggil print().
 
 **String Format**
+
+
 ![String Format](https://user-images.githubusercontent.com/116176746/199974914-472769c4-d84d-4f42-8ff2-5c29a94a30d3.png)
 
 Outputnya adalah : ![String Format (1)](https://user-images.githubusercontent.com/116176746/199974923-02c2e5dd-95ce-4447-bec0-f8d56cf31d1c.png)
