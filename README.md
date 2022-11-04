@@ -144,8 +144,10 @@ print("Kelilling lingkaran \t= " ,keliling)
 
 output nya adalah sebagai berikut
 ![Tugas](https://user-images.githubusercontent.com/116176746/200028120-1a5d0c7d-e7a0-46d4-a163-0e0940661cb7.png)
-<img src="flowchart.png" style="width50%"/>
 
+>Kita import modul math yang sudah di sediakan oleh python terlebih dahulu. Fungsinya adalah menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah `math.pi`jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14
+
+# **SELESAI**
 
 
 
