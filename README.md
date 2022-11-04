@@ -1,5 +1,5 @@
-#Praktikum3
-# Latihan 1
+# Praktikum3
+## Latihan 1
 Pada latihan 1 kita akan mempelajari penggunaan end, separator, dan string format pada python.
 Kita akan mulai dari **penggunaan end** terlebih dahulu.
 ```python
@@ -72,7 +72,7 @@ Outputnya adalah :
 
 >nilai yang diformat mengambil lebar sebanyak karakter yang akan direpresentasikannya. Akan tetapi, kita bisa mengatur sendiri berapa lebar yang kita inginkan. Kita bisa menggunakan perintah **'{:>10}'.format('test')**
 
-# Latihan 2
+## Latihan 2
 ![Konversi nilai variable](https://user-images.githubusercontent.com/116176746/199982751-d0826160-716f-4904-9b18-9e51d1103bfe.png)
 
 Kita bisa memasukkan perintah sebagai berikut:
@@ -97,7 +97,7 @@ maka outputnya :
 ![Konversi nilai variable(1)](https://user-images.githubusercontent.com/116176746/199982762-2e18a3e8-5b6b-4921-8f36-53746cac96af.png)
 
 
-# Latihan 3
+## Latihan 3
 ![String Formatting(3)](https://user-images.githubusercontent.com/116176746/200011534-edeff368-8ee3-4c7a-b9b7-98a6843c6dec.png)
 
 Untuk menghasilkan output seperti gambar diatas, kita bisa memasukkan kode 
@@ -120,7 +120,7 @@ maka akan menghasilkan output seperti berikut
 
 <hr>
 
-# Tugas
+## Tugas
 
 **• Buat kode program untuk menghitung luas dan keliling lingkaran menggunakan Python.**
 
