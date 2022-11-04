@@ -29,6 +29,24 @@ Jika kita tidak ingin pemisah spasi, maka kita bisa menambahkan parameter sep (s
 
 ![String Format](https://user-images.githubusercontent.com/116176746/199974914-472769c4-d84d-4f42-8ff2-5c29a94a30d3.png)
 
-Outputnya adalah : ![String Format (1)](https://user-images.githubusercontent.com/116176746/199974923-02c2e5dd-95ce-4447-bec0-f8d56cf31d1c.png)
+Outputnya adalah : 
+
+![String Format (1)](https://user-images.githubusercontent.com/116176746/199974923-02c2e5dd-95ce-4447-bec0-f8d56cf31d1c.png)
 
 >nilai yang diformat mengambil lebar sebanyak karakter yang akan direpresentasikannya. Akan tetapi, kita bisa mengatur sendiri berapa lebar yang kita inginkan. Kita bisa menggunakan perintah **'{:>10}'.format('test')**
+
+# Latihan 2
+![Konversi nilai variable](https://user-images.githubusercontent.com/116176746/199982751-d0826160-716f-4904-9b18-9e51d1103bfe.png)
+
+>a=input("masukkan nilai a:")
+b=input("masukkan nilai b:")
+
+print("variable a=",a)
+print("variable b=",b)
+print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
+
+#konversi nilai variable
+a=int(a)
+b=int(b)
+print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
